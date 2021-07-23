@@ -13,3 +13,7 @@ listTasks
 cd ~/Documents/__1__/
 printf "\nIn Progress\n"
 listTasks
+
+cd ~/Documents/__h__/
+printf "\nOn Hold\n"
+listTasks
