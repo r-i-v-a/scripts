@@ -6,6 +6,8 @@ listTasks () {
 	done
 }
 
+date '+%Y%m%d%H%M'
+
 cd ~/Documents/__2__/
 listTasks
 
