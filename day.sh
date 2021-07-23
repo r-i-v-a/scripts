@@ -6,7 +6,7 @@ listTasks () {
 	done
 }
 
-date '+%Y%m%d%H%M'
+date '+%d/%b/%Y'
 
 cd ~/Documents/__2__/
 listTasks
