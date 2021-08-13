@@ -8,11 +8,11 @@ listTasks () {
 
 date '+%d/%b/%Y'
 
-cd ~/Documents/__2__/
+cd ~/Documents/__X__/
 listTasks
 
-cd ~/Documents/__1__/
+cd ~/Documents/__I__/
 listTasks
 
-cd ~/Documents/__h__/
+cd ~/Documents/__II__/
 listTasks
