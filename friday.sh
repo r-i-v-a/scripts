@@ -7,13 +7,9 @@ listTasks () {
 }
 
 cd ~/Documents/__X__/
-printf "\nFinished\n"
+printf "\nDone\n"
 listTasks
 
-cd ~/Documents/__I__/
-printf "\nPriority I\n"
-listTasks
-
-cd ~/Documents/__II__/
-printf "\nPriority II\n"
+cd ~/Documents/__1__/
+printf "\nDo Next\n"
 listTasks

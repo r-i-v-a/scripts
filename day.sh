@@ -11,8 +11,5 @@ date '+%d/%b/%Y'
 cd ~/Documents/__X__/
 listTasks
 
-cd ~/Documents/__I__/
-listTasks
-
-cd ~/Documents/__II__/
+cd ~/Documents/__1__/
 listTasks
