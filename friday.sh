@@ -6,14 +6,10 @@ listTasks () {
   done
 }
 
-cd ~/Documents/__X__/
+cd ~/Documents/____/
 printf "\nFinished\n"
 listTasks
 
-cd ~/Documents/__I__/
-printf "\nPriority I\n"
-listTasks
-
-cd ~/Documents/__II__/
-printf "\nPriority II\n"
+cd ~/Documents/__a__/
+printf "\nPriority\n"
 listTasks
