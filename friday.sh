@@ -1,15 +1,15 @@
 #!/bin/bash
 
 listTasks () {
-  for f in *.txt; do
-    head -n 1 $f
-  done
+	for f in *.txt; do
+		head -n 1 $f
+	done
 }
 
-cd ~/Documents/____/
 printf "\nFinished\n"
+cd ~/Documents/__/
 listTasks
 
-cd ~/Documents/__a__/
 printf "\nPriority\n"
+cd ~/Documents/__11__/
 listTasks
