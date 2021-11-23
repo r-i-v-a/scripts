@@ -7,9 +7,9 @@ listTasks () {
 }
 
 printf "\nFinished\n"
-cd ~/Documents/__/
+cd ~/Documents/____/
 listTasks
 
 printf "\nPriority\n"
-cd ~/Documents/__11__/
+cd ~/Documents/__a__/
 listTasks
