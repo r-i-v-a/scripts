@@ -3,11 +3,31 @@
 import random
 
 exercises = [
-	"A",
-	"B",
-	"C",
-	"D",
-	"E"
+	"Arm circle",
+	"Arm curl, w",
+	"Back arm wrap",
+	"Back core hold",
+	"Back twist",
+	"Bicycle crunch",
+	"Developpe",
+	"Front arm wrap",
+	"Front core hold",
+	"Front split",
+	"Full bridge",
+	"Half bridge",
+	"Lunge, w",
+	"Plie first",
+	"Plie second",
+	"Push-up",
+	"Quad stretch",
+	"Rear lift, w",
+	"Releve, w",
+	"Side split",
+	"Sun salutation",
+	"Tendu",
+	"Toe touch",
+	"Turnout squat",
+	"Vertical lift, w"
 ]
 
 def main():
