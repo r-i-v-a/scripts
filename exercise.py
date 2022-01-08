@@ -2,7 +2,7 @@
 
 import random
 
-exercise_list = [
+exercises = [
 	"A",
 	"B",
 	"C",
@@ -11,9 +11,11 @@ exercise_list = [
 ]
 
 def main():
+	i = 1
 	while(True):
 		input()
-		print("Hello")
+		print("{}. {}".format(i, random.choice(exercises)))
+		i += 1
 
 if __name__ == "__main__":
     main()
