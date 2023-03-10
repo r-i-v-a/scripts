@@ -1,7 +1,6 @@
 #!/bin/bash
 
-PREFIX='RNATHANS_'
-NAME="$PREFIX${1}"
+NAME=$1
 
 dx select $NAME
 if [[ $? -ne 0 ]]; then
