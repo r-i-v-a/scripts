@@ -17,8 +17,6 @@ exercises = [
 	"Front core hold",
 	"Front plank",
 	"Front split",
-	"Full bridge",
-	"Half bridge",
 	"Lunge, w",
 	"Modified side plank",
 	"Pigeon pose",
@@ -38,6 +36,7 @@ exercises = [
 	"Vertical lift, w",
 	"Warrior I",
 	"Warrior II",
+	"Wheel / bridge",
 ]
 
 def main():
