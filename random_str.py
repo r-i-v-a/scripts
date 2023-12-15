@@ -7,7 +7,7 @@ characters = string.ascii_letters + string.digits
 
 def main():
 	list = []
-	for i in range(10):
+	for i in range(15):
 		list.append(random.choice(characters))
 	print(''.join(list))
 
