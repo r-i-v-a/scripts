@@ -32,6 +32,7 @@ exercises = [
 	"small leg circle",
 	"sun salutation",
 	"tendu",
+	"turnout rotation",
 	"toe point and flex",
 	"toe taps",
 	"toe touch",
