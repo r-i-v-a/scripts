@@ -9,6 +9,7 @@ exercises = [
 	"back twist",
 	"bicycle crunch",
 	"butterfly stretch",
+	"cat / cow",
 	"clamshell",
 	"developpe",
 	"downward-facing dog",
