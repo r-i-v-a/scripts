@@ -3,7 +3,6 @@
 import random
 
 exercises = [
-	"arm circle",
 	"back arm wrap",
 	"back core hold",
 	"back twist",
@@ -32,6 +31,7 @@ exercises = [
 	"side plank",
 	"side split",
 	"side-angle pose",
+	"small arm circle",
 	"small leg circle",
 	"standing developpe",
 	"sun salutation",
@@ -40,7 +40,6 @@ exercises = [
 	"toe taps",
 	"toe touch",
 	"turnout rotation",
-	"w | arm circle",
 	"w | arm curl",
 	"w | forward press",
 	"w | lunge",
@@ -48,6 +47,7 @@ exercises = [
 	"w | renegade row",
 	"w | Romanian deadlift",
 	"w | single-arm row",
+	"w | small arm circle",
 	"w | upward press",
 	"warrior I",
 	"warrior II",
